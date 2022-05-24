@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Gracias por visitar este enlace
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+Template Name: Portafolio Nellymar Gutierrez
+Author:  Nellymar Gutierrez
 License: https://bootstrapmade.com/license/
